@@ -1,5 +1,5 @@
 # 👋🏼 Hello!
-🔭 I’m a former Engineer turned Product Manager, and I am currently working on <br>React Frontend Project with Node.js server side with a MySQL Backend<br><br>🌱 I’m currently learning<br> REACT Native / Java<br><br>💬 Ask me about<br>How I got into the industry, about my projects, or really anything! 🙂<br><br>⚡ Fun fact<br>I am a music producer and songwriter in my free time! 🎶
+🔭 I’m a former Engineer turned Product Manager, and I am currently working on <br>React Frontend Project with Node.js server side with a MySQL Backend<br><br>🌱 I’m currently learning<br> REACT Native<br><br>💬 Ask me about<br>How I got into the industry, about my projects, or really anything! 🙂<br><br>⚡ Fun fact<br>I am a music producer and songwriter in my free time! And I am a total video game nerd! 🎶
 
 
 # 🌐 Socials:
